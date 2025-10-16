@@ -11,7 +11,7 @@
 **The questions to ask are:**
 1. What are the different property types in the dataset?
 2. Which neighborhood group has the highest number of listings?
-3. Which neighborhoods group have the highest average prices for Airbnb listings?
+3. Which neighborhood groups have the highest average prices for Airbnb listings?
 4. Is there a relationship between the construction year of property and price?
 5. Who are the top 10 hosts by calculated host listing count?
 6. Are hosts with verified identities more likely to receive positive reviews?
